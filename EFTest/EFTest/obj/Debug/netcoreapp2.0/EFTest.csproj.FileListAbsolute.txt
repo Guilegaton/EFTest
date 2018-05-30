@@ -1,0 +1,11 @@
+c:\users\y.vedkal\source\repos\EFTest\EFTest\bin\Debug\netcoreapp2.0\EFTest.deps.json
+c:\users\y.vedkal\source\repos\EFTest\EFTest\bin\Debug\netcoreapp2.0\EFTest.runtimeconfig.json
+c:\users\y.vedkal\source\repos\EFTest\EFTest\bin\Debug\netcoreapp2.0\EFTest.runtimeconfig.dev.json
+c:\users\y.vedkal\source\repos\EFTest\EFTest\bin\Debug\netcoreapp2.0\EFTest.dll
+c:\users\y.vedkal\source\repos\EFTest\EFTest\bin\Debug\netcoreapp2.0\EFTest.pdb
+c:\users\y.vedkal\source\repos\EFTest\EFTest\obj\Debug\netcoreapp2.0\EFTest.csprojAssemblyReference.cache
+c:\users\y.vedkal\source\repos\EFTest\EFTest\obj\Debug\netcoreapp2.0\EFTest.csproj.CoreCompileInputs.cache
+c:\users\y.vedkal\source\repos\EFTest\EFTest\obj\Debug\netcoreapp2.0\EFTest.AssemblyInfoInputs.cache
+c:\users\y.vedkal\source\repos\EFTest\EFTest\obj\Debug\netcoreapp2.0\EFTest.AssemblyInfo.cs
+c:\users\y.vedkal\source\repos\EFTest\EFTest\obj\Debug\netcoreapp2.0\EFTest.dll
+c:\users\y.vedkal\source\repos\EFTest\EFTest\obj\Debug\netcoreapp2.0\EFTest.pdb
